@@ -5,7 +5,7 @@
 This project analyzes Amazon sales performance using Excel to identify revenue trends, top-performing products, customer behavior,and regional sales performance.  Objectives Analyze sales trends Identify top-selling categories Compare target vs actual sales Track monthly
 
 
-**Objectives**
+# Objectives
 
 1-Analyze sales trends
 
@@ -19,7 +19,7 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 
 
-**Tools Used**
+# Tools Used
 
 1)Microsoft Excel
 
@@ -28,7 +28,7 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 3)Data Visualization
 
 
-**Key KPIs**
+# Key KPIs
 
 1-Total Sales
 
@@ -41,7 +41,7 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 5-Top Categories
 
 
-**Process Followed**
+# Process Followed
 
 1-Data Cleaning in Excel
 
@@ -50,13 +50,13 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 3-KPI Calculation
 
 
-Dashboard Design
+# Dashboard Design
 
 
-**Insight Generation**
+# Insight Generation
 
 
-**Key Insights**
+# Key Insights
 
 1)Electronics category generated highest revenue
 
@@ -67,18 +67,18 @@ Dashboard Design
 4)Profit margins improved after Q3
 
 
-**Dashboard Preview**
+# Dashboard Preview
 
 
-**Project Files**
+# Project Files
 
 1-Excel Analysis File
 
 
-**Insights Report PDF**
+# Insights Report PDF
 
 
-Author
+# Author
 
 Sangram Keshari Mohapatra
 Aspiring Data Analyst
