@@ -1,6 +1,6 @@
 # Amazon Sales Dashboard Analysis 
 
-**Project Overview**
+# Project Overview
 
 This project analyzes Amazon sales performance using Excel to identify revenue trends, top-performing products, customer behavior,and regional sales performance.  Objectives Analyze sales trends Identify top-selling categories Compare target vs actual sales Track monthly
 
