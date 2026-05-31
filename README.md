@@ -24,25 +24,37 @@ Data Visualization
 Key KPIs
 
 Total Sales
+
 Total Profit
+
 Revenue Growth %
+
 Top Cities
+
 Top Categories
+
 Monthly Performance
 
 Process Followed
 
 Data Cleaning in Excel
+
 Data Transformation
+
 KPI Calculation
+
 Dashboard Design
+
 Insight Generation
 
 Key Insights
 
 Electronics category generated highest revenue
+
 Mumbai and Bangalore were top-performing cities
+
 Sales peaked during festive months
+
 Profit margins improved after Q3
 
 Dashboard Preview
@@ -51,7 +63,9 @@ Dashboard Preview
 Project Files
 
 Excel Analysis File
+
 Power BI Dashboard (.pbix)
+
 Insights Report PDF
 
 Author
