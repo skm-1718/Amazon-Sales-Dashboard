@@ -8,15 +8,11 @@ This project analyzes Amazon sales performance using Excel and Power BI to ident
 
 Objectives
 
-Analyze sales trends
-
-Identify top-selling categories
-
-Compare target vs actual sales
-
-Track monthly revenue growth
-
-Build interactive dashboards
+1-Analyze sales trends
+2-Identify top-selling categories
+3-Compare target vs actual sales
+4-Track monthly revenue growth
+5-Build interactive dashboards
 
 
 Tools Used
