@@ -75,7 +75,7 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 1-Excel Analysis File
 
 
-##📍Insights Report PDF
+## 📍Insights Report PDF
 
 
 ## 👨‍💻 Author
