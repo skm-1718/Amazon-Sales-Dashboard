@@ -25,6 +25,7 @@ Microsoft Excel
 Power BI
 
 SQL
+
 Data Cleaning
 
 Data Visualization
