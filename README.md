@@ -21,55 +21,50 @@ Objectives
 
 Tools Used
 
-Microsoft Excel
+1)Microsoft Excel
 
-Power BI
+2)Data Cleaning
 
-SQL
-
-Data Cleaning
-
-Data Visualization
+3)Data Visualization
 
 
 Key KPIs
 
-Total Sales
+1-Total Sales
 
-Total Profit
+2-Total Profit
 
-Revenue Growth %
+3-Revenue Growth %
 
-Top Cities
+4-Top Cities
 
-Top Categories
-
-Monthly Performance
+5-Top Categories
 
 
 Process Followed
 
-Data Cleaning in Excel
+1-Data Cleaning in Excel
 
-Data Transformation
+2-Data Transformation
 
-KPI Calculation
+3-KPI Calculation
 
 
 Dashboard Design
+
 
 Insight Generation
 
 
 Key Insights
 
-Electronics category generated highest revenue
+1)Electronics category generated highest revenue
 
-Mumbai and Bangalore were top-performing cities
+2)Mumbai and Bangalore were top-performing cities
 
-Sales peaked during festive months
+3)Sales peaked during festive months
 
-Profit margins improved after Q3
+4)Profit margins improved after Q3
 
 
 Dashboard Preview
@@ -77,9 +72,7 @@ Dashboard Preview
 
 Project Files
 
-Excel Analysis File
-
-Power BI Dashboard (.pbix)
+1-Excel Analysis File
 
 
 Insights Report PDF
