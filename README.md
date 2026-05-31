@@ -8,18 +8,27 @@ This project analyzes Amazon sales performance using Excel and Power BI to ident
 Objectives
 
 Analyze sales trends
+
 Identify top-selling categories
+
 Compare target vs actual sales
+
 Track monthly revenue growth
+
 Build interactive dashboards
+
 
 Tools Used
 
 Microsoft Excel
+
 Power BI
+
 SQL
 Data Cleaning
+
 Data Visualization
+
 
 Key KPIs
 
@@ -35,6 +44,7 @@ Top Categories
 
 Monthly Performance
 
+
 Process Followed
 
 Data Cleaning in Excel
@@ -43,9 +53,11 @@ Data Transformation
 
 KPI Calculation
 
+
 Dashboard Design
 
 Insight Generation
+
 
 Key Insights
 
@@ -57,6 +69,7 @@ Sales peaked during festive months
 
 Profit margins improved after Q3
 
+
 Dashboard Preview
 
 
@@ -66,7 +79,9 @@ Excel Analysis File
 
 Power BI Dashboard (.pbix)
 
+
 Insights Report PDF
+
 
 Author
 
