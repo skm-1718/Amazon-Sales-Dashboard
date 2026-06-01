@@ -7,19 +7,13 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 ## 🎯 Objectives
 
-*Toal Sales*
+1.City and state wise sales analysis
 
-**Toal Sales**
+2.Identify top performing products
 
-1-Analyze sales trends
+3.Compare target vs actual sales
 
-2-Identify top-selling categories
-
-3-Compare target vs actual sales
-
-4-Track monthly revenue growth
-
-5-Build interactive dashboards
+4.Build interactive dashboards
 
 
 
@@ -34,15 +28,11 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 ## 📈 Key KPIs
 
-1-Total Sales
+•Total Sales
 
-2-Total Profit
+•Total Units sold
 
-3-Revenue Growth %
-
-4-Top Cities
-
-5-Top Categories
+•Top Cities
 
 
 ## ⚙️ Process Followed
@@ -57,18 +47,16 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 ## 💹 Dashboard Design
 
 
-## ❤️‍🔥 Insight Generation
-
 
 ## 🔥 Key Insights
 
-1)Electronics category generated highest revenue
+1.Maharashtra generated the highest sales
 
-2)Mumbai and Bangalore were top-performing cities
+2.Electronics category performed the best amongst all
 
-3)Sales peaked during festive months
+3.Mumbai has the highest city wise sales
 
-4)Profit margins improved after Q3
+4.Sales increased during the festive months
 
 
 ## ⏮️ Dashboard Preview
@@ -78,12 +66,11 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 1-Excel Analysis File
 
+[Download Excel File Analysis](https://docs.google.com/spreadsheets/d/1YwW7Gf_jg0npShGt8fCS5ZyzfDwh26zg/edit?usp=drive_link&ouid=112717585302885694844&rtpof=true&sd=true)
+
 
 ## 📍Insights Report PDF
 
 
-## 👨‍💻 Author
 
-Sangram Keshari Mohapatra
 
-Aspiring Data Analyst
