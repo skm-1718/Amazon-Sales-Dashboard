@@ -7,7 +7,9 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 ## 🎯 Objectives
 
+*Toal Sales*
 
+**Toal Sales **
 
 1-Analyze sales trends
 
