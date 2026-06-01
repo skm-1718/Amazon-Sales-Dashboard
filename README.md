@@ -64,12 +64,16 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 ## 📁 Project Files
 
-1-Excel Analysis File
+1-Excel Analysis 
+
+Contains Cleaned dataset,pivot tables,KPI calculations,data preprocessing and visualisations
 
 [Download Excel File Analysis](https://docs.google.com/spreadsheets/d/1YwW7Gf_jg0npShGt8fCS5ZyzfDwh26zg/edit?usp=drive_link&ouid=112717585302885694844&rtpof=true&sd=true)
 
 
 ## 📍Insights Report PDF
+
+Detailed summary of key findings,KPI analysis,tools used with interactive visualisations
 
 
 
