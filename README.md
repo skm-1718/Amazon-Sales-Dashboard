@@ -46,7 +46,7 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 ## 💹 Dashboard Design
 
-
+![Dashboard Preview Screenshot]("C:\Users\mohap\Downloads\DASHBOARD SCREENSHOT\Dashboard Preview Screenshot.png")
 
 ## 🔥 Key Insights
 
