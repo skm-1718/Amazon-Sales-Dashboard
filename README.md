@@ -58,7 +58,7 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 ## ⏮️ Dashboard Preview
 
-![Dashboard Preview](Dashboard Screenshots/Dashboard Preview Screenshot.png)
+![Dashboard Preview](Dashboard Preview Screenshot.png)
 
 
 ## 📁 Project Files
