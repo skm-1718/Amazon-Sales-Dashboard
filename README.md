@@ -44,10 +44,6 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 3-KPI Calculation
 
 
-## 💹 Dashboard Design
-
-![Dashboard Preview Screenshot](DASHBOARD SCREENSHOT/Dashboard Preview Screenshot.png)
-
 
 ## 🔥 Key Insights
 
@@ -61,6 +57,8 @@ This project analyzes Amazon sales performance using Excel to identify revenue t
 
 
 ## ⏮️ Dashboard Preview
+
+![Dashboard Preview](Dashboard Screenshots/Dashboard Preview Screenshot.png)
 
 
 ## 📁 Project Files
